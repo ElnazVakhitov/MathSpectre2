@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathSpectre", "MathSpectre\MathSpectre.csproj", "{A86F946B-112E-442A-A3AF-48B35DF0F095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathSpectreTests", "MathSpectreTests\MathSpectreTests.csproj", "{1D761697-246D-4D70-8713-363D8E14F124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A86F946B-112E-442A-A3AF-48B35DF0F095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86F946B-112E-442A-A3AF-48B35DF0F095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86F946B-112E-442A-A3AF-48B35DF0F095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86F946B-112E-442A-A3AF-48B35DF0F095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D761697-246D-4D70-8713-363D8E14F124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D761697-246D-4D70-8713-363D8E14F124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D761697-246D-4D70-8713-363D8E14F124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D761697-246D-4D70-8713-363D8E14F124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
